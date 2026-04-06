@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(11, 82, 11);
+
+
+}
+h1{
+background-color: #311313 ;
+color: aliceblue;
+border: 3px solid rgba(250, 38, 162, 0.89);
+width: 600px;
+padding: 20px;
+
+
+}
+.div{
+background-color: black ;
+width: 800px;
+padding: 50px;
+
+}
+.big{
+background-color: aqua;
+width: 700px;
+padding: 50px;
+margin: 20px;
+}
+h1{
+background-color: #311313 ;
+color: aliceblue;
+border: 3px solid rgba(250, 38, 162, 0.89);
+width: 600px;
+padding: 20px;
+
+
+}
+.div{
+background-color: black ;
+width: 800px;
+padding: 50px;
+
+}
+.big{
+background-color: aqua;
+width: 700px;
+padding: 50px;
+margin: 10px;
+}
